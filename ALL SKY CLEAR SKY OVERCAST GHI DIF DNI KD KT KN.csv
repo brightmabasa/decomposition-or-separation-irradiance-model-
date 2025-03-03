@@ -1,0 +1,50 @@
+ALL SKY,,,,,,,,,,,
+Study area,climatic zone,KCGC,Mean GHI (W/m2),Mean DIF (W/m2),Mean DNI  (W/m2),Clear sky (%),Overcast (%),Average CFC (%),,,
+Upington,Arid interior,BWh,584,97,773,220(60),12(3),18,0.23,0.7,0.56
+Alexandra Bay,Arid interior,BWh,580,101,758,206(56),12(3),18,0.25,0.68,0.55
+De Aar,Cold interior,BSk,569,105,747,197(54),19(5),24,0.26,0.69,0.55
+Bethlehem,Cold interior,Cwb,526,154,587,157(43),32(9),32,0.4,0.62,0.43
+Irene,Temperate interior,Cwb,558,149,637,168(46),35(9),31,0.34,0.66,0.47
+Pretoria,Temperate interior,Cwa,518,148,589,175(48),33(9),30,0.39,0.61,0.43
+Mahikeng,Temperate interior,BSh,545,131,616,2012(55),22(6),24,0.35,0.64,0.45
+Durban,Sub-tropical coastal,Cfa,476,152,485,142(39),73(20),40,0.45,0.57,0.36
+Mthatha,Sub-tropical coastal,Cfb,546,163,542,120(33),73(20),43,0.44,0.6,0.4
+George,Temperate coastal,Cfb,453,136,511,118(32),55(15),42,0.46,0.57,0.37
+Stellenbosch,Temperate coastal,Csb,508,117,626,179(49),33(9),32,0.35,0.62,0.46
+Cape Point,Temperate coastal,Csb,480,142,540,78(21),47 (13),46,0.47,0.59,0.39
+Nelspruit,Hot interior,Cwa,445,157,421,148(40),64(18),39,0.53,0.52,0.31
+Thohoyandou,Hot interior,Cwa,493,152,524,144(40),62(17),41,0.45,0.58,0.38
+,,,,,,,,,,,
+CLEAR SKY,,,,,,,,,,,
+Study area,Climatic zone,KCGC,Mean GHI (W/m2),Mean DIF (W/m2),Mean DNI  (W/m2),,,,,,
+Upington,Arid interior,BWh,601,61,880,0.13,0.74,0.64,,,
+Alexandra Bay,Arid interior,BWh,592,75,838,0.17,0.71,0.61,,,
+De Aar,Cold interior,BSk,600,60,890,0.13,0.75,0.65,,,
+Bethlehem,Cold interior,Cwb,547,82,792,0.19,0.71,0.59,,,
+Irene,Temperate interior,Cwb,544,88,755,0.21,0.7,0.56,,,
+Pretoria,Temperate interior,Cwa,536,88,758,0.21,0.69,0.56,,,
+Mahikeng,Temperate interior,BSh,567,81,771,0.19,0.71,0.57,,,
+Durban,Sub-tropical coastal,Cfa,501,98,649,0.24,0.65,0.51,,,
+Mthatha,Sub-tropical coastal,Cfb,503,70,753,0.18,0.69,0.56,,,
+George,Temperate coastal,Cfb,542,77,767,0.2,0.7,0.56,,,
+Stellenbosch,Temperate coastal,Csb,585,74,811,0.17,0.7,0.59,,,
+Cape Point,Temperate coastal,Csb,571,77,845,0.2,0.74,0.62,,,
+Nelspruit,Hot interior,Cwa,523,84,685,0.22,0.68,0.51,,,
+Thohoyandou,Hot interior,Cwa,561,100,729,0.23,0.69,0.54,,,
+,,,,,,,,,,,
+OVERCAST,,,,,,,,,,,
+Study area,Climatic zone,KCGC,Mean GHI (W/m2),Mean DIF (W/m2),Mean DNI  (W/m2),,,,,,
+Upington,Arid interior,BWh,139,126,45,0.93,0.23,0.03,,,
+Alexandra Bay,Arid interior,BWh,128,122,15,0.95,0.23,0.01,,,
+De Aar,Cold interior,BSk,148,146,31,0.92,0.22,0.02,,,
+Bethlehem,Cold interior,Cwb,147,140,15,0.95,0.2,0.01,,,
+Irene,Temperate interior,Cwb,139,124,43,0.9,0.22,0.03,,,
+Pretoria,Temperate interior,Cwa,150,142,18,0.95,0.22,0.01,,,
+Mahikeng,Temperate interior,BSh,148,141,27,0.93,0.22,0.02,,,
+Durban,Sub-tropical coastal,Cfa,105,100,14,0.96,0.18,0.01,,,
+Mthatha,Sub-tropical coastal,Cfb,127,113,38,0.91,0.22,0.03,,,
+George,Temperate coastal,Cfb,132,129,7,0.98,0.2,0.01,,,
+Stellenbosch,Temperate coastal,Csb,124,119,13,0.96,0.21,0.01,,,
+Cape Point,Temperate coastal,Csb,120,111,21,0.93,0.2,0.02,,,
+Nelspruit,Hot interior,Cwa,148,145,7,0.97,0.19,0.01,,,
+Thohoyandou,Hot interior,Cwa,123,118,12,0.97,0.18,0.01,,,

@@ -1,0 +1,29 @@
+Site,,,,,,
+Station,Climatic zone,KGCE,MBE,MAE,RMSE,R2
+Upington,Arid interior,BWh,3.40E-04,0.056,0.092,0.88
+Alexandra Bay,Arid interior,BWh,6.50E-04,0.051,0.092,0.899
+De Aar,Cold interior,BSk,5.10E-04,0.058,0.097,0.88
+Bethlehem,Cold interior,Cwb,-2.40E-04,0.081,0.123,0.887
+Irene,Temperate interior,Cwb,7.70E-04,0.073,0.108,0.86
+Mahikeng,Temperate interior,BSh,4.80E-04,0.07,0.107,0.901
+Pretoria,Temperate interior,Cwa,-2.50E-04,0.065,0.099,0.904
+Nelspruit,Hot interior,Cwa,1.30E-03,0.068,0.108,0.913
+Thohoyandou,Hot interior,Cwa,1.00E-04,0.068,0.106,0.905
+Durban,Sub-tropical coastal,Cfa,4.70E-04,0.067,0.106,0.88
+Mthatha,Sub-tropical coastal,Cfb,2.80E-03,0.069,0.109,0.913
+George,Temperate coastal,Cfb,-1.10E-03,0.067,0.105,0.918
+Stellenbosch,Temperate coastal,Csb,8.60E-04,0.069,0.111,0.88
+Cape Point,Temperate coastal,Csb,2.50E-03,0.08,0.12,0.882
+,,,,,,
+,,,,,,
+Climate,,,MBE,MAE,RMSE,R2
+Arid interior,,,2.02E-04,0.058,0.0983,0.875
+Cold interior,,,5.13E-04,0.058,0.097,0.873
+Temperate interior,,,5.37E-06,0.071,0.107,0.887
+Hot interior,,,8.36E-04,0.069,0.109,0.909
+Sub-tropical coastal,,,1.66E-03,0.074,0.112,0.898
+Temperate coastal,,,1.22E-03,0.075,0.115,0.892
+,,,,,,
+,,,,,,
+,,,MBE,MAE,RMSE,R2
+National,,,5.11E-04,0.072,0.111,0.895

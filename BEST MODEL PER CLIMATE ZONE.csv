@@ -1,0 +1,28 @@
+KD Site,,,,DHI Site,,,,DNI Site,,
+Climate Zone,Best Model,Mean Ranking,,Climate Zone,Best Model,Mean Ranking,,Climate Zone,Best Model,Mean Ranking
+Arid Interior,Site,1.66,,Arid Interior,Site,1.84,,Arid Interior,Site,1
+Cold Interior,Site,1.75,,Cold Interior,Site,2.84,,Cold Interior,Site,2.5
+Temperate Interior,Site,1.11,,Temperate Interior,Site,2.22,,Temperate Interior,Site,1.67
+Hot Interior,Site,1.58,,Hot Interior,Site,2.66,,Hot Interior,Dirindex,1
+Subtropical,Dirint,2.42,,Subtropical,Yang4,3.5,,Subtropical,Site,1
+Temperate Coastal,Site,2.22,,Temperate Coastal,Site,2.89,,Temperate Coastal,Site,1.33
+,,,,,,,,,,
+,,,,,,,,,,
+KD Cimate,,,,DHI Climate,,,,DNI Climate,,
+Climate Zone,Best Model,Mean Ranking,,Climate Zone,Best Model,Mean Ranking,,Climate Zone,Best Model,Mean Ranking
+Arid Interior,Climate,1.58,,Arid Interior,Climate,1.83,,Arid Interior,Climate,2
+Cold Interior,Disc,3.5,,Cold Interior,Yang4,3.34,,Cold Interior,Dirindex,3.84
+Temperate Interior,Climate,1.67,,Temperate Interior,Climate,2.78,,Temperate Interior,Climate,2.89
+Hot Interior,Climate,2.33,,Hot Interior,Climate,3,,Hot Interior,Dirindex,2
+Subtropical,Dirint,2.25,,Subtropical,Yang4,3.67,,Subtropical,Yang4,3.84
+Temperate Coastal,Drindex,2.44,,Temperate Coastal,Dirindex,2.72,,Temperate Coastal,Dirindex,3
+,,,,,,,,,,
+,,,,,,,,,,
+KD National,,,,DHI National,,,,DNI National,,
+Climate Zone,Best Model,Mean Ranking,,Climate Zone,Best Model,Mean Ranking,,Climate Zone,Best Model,Mean Ranking
+Arid Interior,Dirindex,1.83,,Arid Interior,DIrindex,3.33,,Arid Interior,Dirindex,1.83
+Cold Interior,National,2.58,,Cold Interior,Dirindex,3.66,,Cold Interior,National,3.66
+Temperate Interior,National,1.33,,Temperate Interior,National,2.55,,Temperate Interior,National,2.78
+Hot Interior,National,3.25,,Hot Interior,Yang5,4,,Hot Interior,Dirindex,2
+Subtropical,National,2.16,,Subtropical,Yang4,3.5,,Subtropical,Yang4,3.66
+Temperate Coastal,Dirindex,2.28,,Temperate Coastal,Dirint,3.67,,Temperate Coastal,Dirindex,2.78
